@@ -1,0 +1,7 @@
+server:
+    port: 8083
+    context-path: /hass
+girl:
+  cupSize: B
+  age: 20
+
